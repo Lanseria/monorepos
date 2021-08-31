@@ -1,0 +1,3 @@
+[submodule "src/packages/module-1"]
+	path = src/packages/module-1
+	url = git@github.com:Lanseria/module-1.git
